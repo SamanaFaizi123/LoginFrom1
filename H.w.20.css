@@ -85,7 +85,7 @@
     color: white;
    
 }.em{
-    position: absolute;
+    position: relative;
     top: 20px;
     right: 50px;
     border-radius: 8px;
